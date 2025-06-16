@@ -23,14 +23,6 @@ This is a solo-developed project created to learn Unreal Engine and experiment w
 - Simple item-based inventory system (lighter, bolt cutter, keys etc.)
 - Lo-fi visuals and a focus on dread—not jumpscares
 
----
-
-## 🖼️ Screenshots
-
-> 📷 *Coming soon — screenshots will be added to showcase progress.*
-
----
-
 ## 🚧 Current Progress
 
 - ✅ Forest entrance and intro area built  
