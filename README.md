@@ -4,7 +4,10 @@
 **Ashes Below** is a first-person psychological horror game about isolation, corruption, and forgotten places.  
 Built using Unreal Engine, this is my first indie horror project.
 
-> "You’re a detective. No badge. No backup. Just a tip from a friend. People are disappearing, and the forest is hiding something far worse than rumors."_  
+> "You’re a detective. No badge. No backup. Just a tip from a friend. People are disappearing, and the forest is hiding something far worse than rumors."_
+
+<img width="2990" height="1810" alt="Image1" src="https://github.com/user-attachments/assets/bba67416-c3bf-4f6a-8f65-316aa6529451" />
+
 
 ---
 
@@ -15,6 +18,8 @@ Explore decaying sewers, and finally a crumbling asylum where something—or som
 
 This is a solo-developed project created to learn Unreal Engine and experiment with horror design and atmosphere.
 
+<img width="1453" height="908" alt="Image2" src="https://github.com/user-attachments/assets/18f2438d-2d1a-4d12-a45d-72cc0b20f5f1" />
+
 ---
 
 ## 🕹️ Features
@@ -23,6 +28,8 @@ This is a solo-developed project created to learn Unreal Engine and experiment w
 - Simple item-based inventory system (lighter, bolt cutter, keys etc.)
 - Lo-fi visuals and a focus on dread—not jumpscares
 
+<img width="1831" height="905" alt="Image3" src="https://github.com/user-attachments/assets/1d1c6e70-f903-4a33-bb7f-b473df109598" />
+
 ## 🚧 Current Progress
 
 - ✅ Forest entrance and intro area built  
@@ -30,6 +37,8 @@ This is a solo-developed project created to learn Unreal Engine and experiment w
 - 🔄 Sewer levels in development  
 - 🕯️ Final asylum map and story events in progress  
 - ⏳ Puzzle design, interactions, and polish to come.
+
+
 
 ---
 
